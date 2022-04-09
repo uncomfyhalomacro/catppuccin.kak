@@ -37,7 +37,6 @@ set-face		global	bullet			"%opt{green}"
 set-face		global	list			"%opt{white}"
 
 # Builtins
-
 set-face	global	Default				"%opt{white},%opt{background}"
 set-face	global	PrimarySelection	"%opt{grey},%opt{white}"
 set-face	global	SecondarySelection	"%opt{purple},%opt{grey}"
@@ -48,7 +47,7 @@ set-face	global	SecondaryCursorEol	"%opt{black},%opt{magenta}"
 set-face	global	LineNumbers			"%opt{grey},%opt{background}"
 set-face	global	LineNumberCursor	"%opt{purple},%opt{black}+b"
 set-face	global	LineNumbersWrapped	"%opt{bright_dark},%opt{white}+i"
-set-face	global	MenuForeground 		"%opt{background},%opt{white}+b"
+set-face	global	MenuForeground 		"%opt{background},%opt{purple}+b"
 set-face	global	MenuBackground		"%opt{white},%opt{background}"
 set-face	global	MenuInfo			"%opt{bright_dark},%opt{red}"
 set-face	global	Information			"%opt{yellow},%opt{dark}"
