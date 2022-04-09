@@ -1,5 +1,7 @@
 # Catppuccin theme for Kakoune
 
+![Image](https://github.com/uncomfyhalomacro/catppuccin.kak/blob/main/screenshot.png)
+
 ## Installation with [plug.kak](https://github.com/andreyorst/plug.kak)
 
 ```kak
