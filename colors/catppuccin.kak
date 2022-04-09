@@ -47,9 +47,9 @@ set-face	global	SecondaryCursorEol	"%opt{black},%opt{magenta}"
 set-face	global	LineNumbers			"%opt{grey},%opt{background}"
 set-face	global	LineNumberCursor	"%opt{purple},%opt{black}+b"
 set-face	global	LineNumbersWrapped	"%opt{bright_dark},%opt{white}+i"
-set-face	global	MenuForeground 		"%opt{background},%opt{purple}+b"
-set-face	global	MenuBackground		"%opt{white},%opt{background}"
-set-face	global	MenuInfo			"%opt{bright_dark},%opt{red}"
+set-face	global	MenuForeground 		"%opt{dark},%opt{purple}+b"
+set-face	global	MenuBackground		"%opt{white},%opt{dark}"
+set-face	global	MenuInfo			"%opt{dark},%opt{green}"
 set-face	global	Information			"%opt{yellow},%opt{dark}"
 set-face	global	Error				"%opt{red},%opt{bright_dark}"
 set-face	global	StatusLine			"%opt{white},%opt{dark}"
@@ -62,7 +62,6 @@ set-face	global	MatchingChar		"%opt{blue},%opt{black}"
 set-face	global	Whitespace			"%opt{dark},%opt{background}+f"
 set-face	global	WrapMarker			Whitespace
 set-face	global	BufferPadding		"%opt{background},%opt{background}"
-
 
 # Code
 set-face	global	value				"%opt{orange}"
