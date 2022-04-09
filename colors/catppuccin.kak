@@ -20,6 +20,7 @@ declare-option	str	bright_white		%opt{white}
 declare-option	str	purple				'rgb:C9CBFF'
 declare-option	str	dark				'rgb:1A1826'
 declare-option	str	grey				'rgb:423E50'
+declare-option	str orange				'rgb:F18951'
 
 declare-option	str	background			'rgb:1e1e2e'
 declare-option	str	foreground			%opt{white}
@@ -55,7 +56,7 @@ set-face	global	Error				"%opt{red},%opt{bright_dark}"
 set-face	global	StatusLine			"%opt{white},%opt{dark}"
 set-face	global	StatusLineMode		"%opt{bright_blue},%opt{black}"
 set-face	global	StatusLineInfo		"%opt{background},%opt{green}"
-set-face	global	StatusLineValue		"%opt{bright_red},%opt{black}"
+set-face	global	StatusLineValue		"%opt{orange},%opt{black}"
 set-face	global	StatusCursor		"%opt{white},%opt{blue}"
 set-face	global	Prompt				"%opt{green},%opt{black}"
 set-face	global	MatchingChar		"%opt{blue},%opt{black}"
