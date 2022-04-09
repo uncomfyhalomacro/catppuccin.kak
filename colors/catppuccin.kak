@@ -66,9 +66,9 @@ set-face	global	BufferPadding		"%opt{background},%opt{background}"
 
 
 # Code
-set-face	global	value				"%opt{red}"
+set-face	global	value				"%opt{orange}"
 set-face	global	type				"%opt{yellow}"
-set-face	global	variable			"%opt{orange}"
+set-face	global	variable			"%opt{white}"
 set-face	global	module				"%opt{red}"
 set-face	global	function			"%opt{blue}"
 set-face	global	string				"%opt{green}"
