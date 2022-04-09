@@ -1,3 +1,7 @@
+# NOTICE
+
+This is now https://github.com/uncomfyhalomacro/kakoune/
+
 # Catppuccin theme for Kakoune
 
 ![Image](https://github.com/uncomfyhalomacro/catppuccin.kak/blob/main/screenshot.png)
