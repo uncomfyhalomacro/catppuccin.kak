@@ -20,7 +20,7 @@ declare-option	str	bright_white		%opt{white}
 declare-option	str	purple				'rgb:C9CBFF'
 declare-option	str	dark				'rgb:1A1826'
 declare-option	str	grey				'rgb:423E50'
-declare-option	str orange				'rgb:F18951'
+declare-option	str orange				'rgb:F9C096'
 
 declare-option	str	background			'rgb:1e1e2e'
 declare-option	str	foreground			%opt{white}
